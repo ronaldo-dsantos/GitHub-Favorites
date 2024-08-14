@@ -13,7 +13,6 @@ Remover usuários da lista conforme sua necessidade.
 - HTML
 - CSS
 - JavaScript
-- Consumo de API
 
 ## 🔗 Links
 
